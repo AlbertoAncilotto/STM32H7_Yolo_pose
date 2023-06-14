@@ -1,0 +1,10 @@
+{
+    "name": "AI",
+    "version": "0.0.0",
+    "build": {
+        "flags": [
+            "-I $PROJECT_DIR/Inc",
+            "-I Inc"
+        ]
+    }
+}

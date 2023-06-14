@@ -1,0 +1,7 @@
+.pio
+.vscode
+.ai
+.settings
+Debug
+__pycache__
+Drivers/CMSIS
